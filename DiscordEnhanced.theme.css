@@ -1,10 +1,11 @@
-
 /**
  * @name Discord Enhanced
  * @author Society
  * @description Describe the aesthetic. Maybe a support server link.
  * @version 0.0.1
  */
+
+ @import url(https://github.com/SocietyWeb/DiscordEnhanced);
 
 :root {
   background-image: url("https://th.bing.com/th/id/OIP.RPaS76pautMtWi8RJPG1xgHaEK?pid=ImgDet&rs=1");
